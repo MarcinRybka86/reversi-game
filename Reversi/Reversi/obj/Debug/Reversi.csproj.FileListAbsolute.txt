@@ -1,0 +1,15 @@
+C:\Users\Cloud\source\repos\Reversi\Reversi\bin\Debug\Reversi.exe.config
+C:\Users\Cloud\source\repos\Reversi\Reversi\bin\Debug\Reversi.exe
+C:\Users\Cloud\source\repos\Reversi\Reversi\bin\Debug\Reversi.pdb
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\Reversi.csproj.AssemblyReference.cache
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\MainWindow.g.cs
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\App.g.cs
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\Reversi_MarkupCompile.cache
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\Reversi_MarkupCompile.lref
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\MainWindow.baml
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\Reversi.g.resources
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.cache
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\Reversi.exe
+C:\Users\Cloud\source\repos\Reversi\Reversi\obj\Debug\Reversi.pdb
